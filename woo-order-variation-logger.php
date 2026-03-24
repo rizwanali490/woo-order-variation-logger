@@ -4,6 +4,7 @@
  * Description: Logs variation data for each item before WooCommerce creates the order.
  * Version: 1.0
  * Author: Rizwan
+ * Author URI: https://rizwandevs.com
  */
 
 if (!defined('ABSPATH')) exit;
